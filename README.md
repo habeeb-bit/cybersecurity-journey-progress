@@ -15,3 +15,23 @@ Tracking my daily progress as I learn cybersecurity.
   - I feel excited about the path ahead and committed to learning every day. 🚀  
 
 ✅ *Journey started… Day 1 completed successfully!*
+
+---
+
+### 🚀 Day 2 of My Cybersecurity Journey
+
+**Date:** August 19, 2025
+
+✅ What I did today:
+
+* Continued learning the fundamentals of **networking** (OSI model, TCP/IP).
+* Learnt about DNS, Subnetting, NAT and othe
+* Explored resources on **FreeCodeCamp** and a few cybersecurity blogs.
+
+💡 Key takeaways:
+
+* Networking is the backbone of cybersecurity.
+* Cybersecurity is not just about tools, but also about **understanding how systems communicate**.
+
+* ✅ *Day 2 completed successfully!*
+
