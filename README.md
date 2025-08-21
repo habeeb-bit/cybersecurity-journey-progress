@@ -35,3 +35,31 @@ Tracking my daily progress as I learn cybersecurity.
 
 * ✅ *Day 2 completed successfully!*
 
+
+## 🚀 Day 3 of My Cybersecurity Journey
+
+**Date:** August 20, 2025.
+
+* Continued with **Network Fundamentals** as part of my 90-day roadmap.
+
+### 📖 What I Learned Today
+
+* Deeper understanding of **network topologies** (bus, star, ring, mesh, hybrid).
+* Explored **IP addressing basics** (IPv4 structure, subnetting introduction).
+* Learned about **network devices** (switches, routers, access points, firewalls) and their roles in communication.
+* Reviewed **OSI Model layers** with practical examples for better clarity.
+* * Explored resources on **FreeCodeCamp** and a few youtube channel.
+
+### ✅ Key Takeaways
+
+* The OSI model provides a structured way to understand how data moves through networks.
+* IP addressing and subnetting are essential for network organization and security.
+* Firewalls and routers are critical components for securing and managing traffic.
+
+*✅ *Day 2 completed successfully!*
+
+---
+
+
+
+
