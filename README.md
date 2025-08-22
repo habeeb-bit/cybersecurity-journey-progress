@@ -60,6 +60,23 @@ Tracking my daily progress as I learn cybersecurity.
 
 ---
 
+## 🚀 Day 4: Cybersecurity Journey Progress 
+
+**Date:** August 21, 2025.
+
+**Today’s Focus:**  
+I explored key network security concepts: **Proxies, VPNs, and Firewalls**.  
+
+### 🔑 What I Learned  
+- **Proxies** – Act as intermediaries between a user and the internet, hiding IP addresses and filtering requests.  
+- **VPNs (Virtual Private Networks)** – Encrypt internet traffic, provide anonymity, and help bypass geo-restrictions.  
+- **Firewalls** – Serve as security barriers that monitor and filter incoming/outgoing traffic based on rules.  
+
+### 🛠 Key Takeaways  
+- Proxies mainly handle request routing and anonymity but don’t encrypt like VPNs.  
+- VPNs ensure privacy through strong encryption, protecting against eavesdropping.  
+- Firewalls are essential for controlling traffic flow and preventing unauthorized access.  
 
 
+*✅ *Day 4 completed successfully!*
 
