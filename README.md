@@ -80,3 +80,30 @@ I explored key network security concepts: **Proxies, VPNs, and Firewalls**.
 
 *✅ *Day 4 completed successfully!*
 
+
+## 🚀 Day 5: Cybersecurity Journey Progress.
+
+**Date:** August 22, 2025.
+
+Today’s Focus:
+I explored Wireshark basics and practiced capturing live network traffic.
+
+🔑 What I Learned:
+
+How to install and set up Wireshark.
+
+Basics of the Wireshark interface (packet list, packet details, and packet bytes).
+
+Capturing live traffic on my network interface.
+
+Filtering packets using display filters.
+
+🛠 Hands-on Practice:
+
+Successfully captured and analyzed my own network traffic.
+
+Applied filters to isolate specific packets for deeper inspection.
+
+*✅ *Day 5 completed successfully!*
+
+
