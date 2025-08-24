@@ -107,3 +107,27 @@ Applied filters to isolate specific packets for deeper inspection.
 *✅ *Day 5 completed successfully!*
 
 
+## 🚀 Day 6: Cybersecurity Journey Progress.
+
+**Date:** August 23, 2025.
+
+Today’s Focus:
+I continued my hands-on practice with Wireshark, diving deeper into packet analysis using filters.
+
+🔑 What I Practiced:
+
+HTTP filter – Isolating web traffic to observe requests and responses.
+
+TCP filter – Tracing reliable communication sessions and understanding connection flow.
+
+DNS filter – Analyzing domain resolution queries and responses.
+
+💡 Key Takeaway:
+Filtering traffic is an essential skill in Wireshark. It helps narrow down vast amounts of captured data, making it easier to analyze specific protocols and troubleshoot effectively.
+
+📈 Progress:
+Day 6 down, consistency is building strong foundations.
+
+*✅ *Day 6 completed successfully!*
+
+
