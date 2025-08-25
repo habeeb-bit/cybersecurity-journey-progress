@@ -56,7 +56,7 @@ Tracking my daily progress as I learn cybersecurity.
 * IP addressing and subnetting are essential for network organization and security.
 * Firewalls and routers are critical components for securing and managing traffic.
 
-*✅ *Day 2 completed successfully!*
+*✅ *Day 3 completed successfully!*
 
 ---
 
@@ -131,7 +131,7 @@ Day 6 down, consistency is building strong foundations.
 *✅ *Day 6 completed successfully!*
 
 
-## 🚀 Day 6: Cybersecurity Journey Progress.
+## 🚀 Day 7: Cybersecurity Journey Progress.
 
 **Date:** August 24, 2025.
 
