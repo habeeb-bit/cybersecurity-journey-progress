@@ -152,3 +152,31 @@ Today was about consolidation — looking back at what I’ve learned from Day 1
 *✅ *Day 7 completed successfully!*
 
 
+## 🚀 Day 8: Cybersecurity Journey Progress.
+
+**Date:** August 25, 2025.
+
+Focus of the Day:
+I started the Google Cybersecurity Certificate (Module 1) to build a strong foundation in the field.
+
+What I Learned:
+
+🔑 The importance of the CIA Triad (Confidentiality, Integrity, Availability) in cybersecurity.
+
+🌍 Different cybersecurity roles (SOC Analyst, Security Engineer, Penetration Tester, Incident Responder).
+
+🛡️ Introduction to threats, risks, and vulnerabilities.
+
+💼 Career paths in cybersecurity and how they align with different skills.
+
+Hands-On Practice:
+
+Continued exploring Wireshark filters from earlier practice sessions.
+
+Documented key findings in my notes for better recall.
+
+Reflection:
+Today’s session helped me understand what cybersecurity professionals actually do and why the CIA Triad is central to all security practices. Excited to dive deeper into the next modules.
+
+*✅ *Day 8 completed successfully!*
+
