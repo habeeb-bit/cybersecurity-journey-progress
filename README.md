@@ -180,3 +180,23 @@ Today’s session helped me understand what cybersecurity professionals actually
 
 *✅ *Day 8 completed successfully!*
 
+
+# 🚀 Day 9: Cybersecurity Journey Progress  
+
+**Date:** August 25, 2025.
+
+## 📌 Today’s Focus  
+- Continued **Module 1** of the Google Cybersecurity Certificate  
+
+## 🔑 Key Takeaways  
+Learned about different **types of cyber attacks**, such as:  
+- **Phishing** – tricking users into giving up sensitive info  
+- **Malware** – malicious software designed to disrupt or steal data  
+- **Denial-of-Service (DoS) Attacks** – overwhelming systems to make them unavailable  
+- **Man-in-the-Middle (MitM)** – intercepting communication between two parties  
+- **Password Attacks** – brute force, dictionary, credential stuffing  
+
+## 🛠️ Reflection  
+Understanding the various cyber attack methods is critical for building strong defense strategies in cybersecurity. 
+
+*✅ *Day 9 completed successfully!*
