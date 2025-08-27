@@ -183,7 +183,7 @@ Today’s session helped me understand what cybersecurity professionals actually
 
 # 🚀 Day 9: Cybersecurity Journey Progress  
 
-**Date:** August 25, 2025.
+**Date:** August 26, 2025.
 
 ## 📌 Today’s Focus  
 - Continued **Module 1** of the Google Cybersecurity Certificate  
@@ -204,7 +204,7 @@ Understanding the various cyber attack methods is critical for building strong d
 
 ## 🚀 Day 10: Cybersecurity Journey Progress  
 
-**Date:** August 26, 2025.
+**Date:** August 27, 2025.
 
 🎥 Watched John Hammond's **"Cybersecurity for Beginners"** on YouTube.  
 
