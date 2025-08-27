@@ -200,3 +200,24 @@ Learned about different **types of cyber attacks**, such as:
 Understanding the various cyber attack methods is critical for building strong defense strategies in cybersecurity. 
 
 *✅ *Day 9 completed successfully!*
+
+
+## 🚀 Day 10: Cybersecurity Journey Progress  
+
+**Date:** August 26, 2025.
+
+🎥 Watched John Hammond's **"Cybersecurity for Beginners"** on YouTube.  
+
+🔑 Key Takeaways:  
+- Cybersecurity is not just about tools — it’s about mindset and persistence.  
+- Start small, stay curious, and practice consistently.  
+- Hands-on labs, CTFs, and open-source resources are essential for growth.  
+- The field is broad (blue team, red team, incident response, etc.), so it’s good to explore and then specialize.  
+
+💡 Reflection:  
+This video was motivating and gave me a clearer roadmap on how to approach my learning process step by step. I’m excited to keep pushing forward in this 90-day journey!  
+
+#CyberSecurity #Learning #Day10
+
+*✅ *Day 10 completed successfully!*
+
