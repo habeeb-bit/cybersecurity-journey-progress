@@ -237,7 +237,6 @@ I started the **TryHackMe Pre-Security Path** with **Room 1**. This room introdu
 
 💡 This room was about building the foundation — now I’m ready to dive deeper into technical concepts in upcoming rooms.  
 
-*✅ *Day 11 completed successfully!*
----
+*✅ *Day 10 completed successfully!*
 
 
