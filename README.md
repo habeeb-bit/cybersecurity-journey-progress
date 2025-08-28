@@ -221,3 +221,23 @@ This video was motivating and gave me a clearer roadmap on how to approach my le
 
 *✅ *Day 10 completed successfully!*
 
+
+## 🚀 Day 11: Cybersecurity Journey Progress  
+
+**Date:** August 28, 2025.
+
+**Today's Focus:**  
+I started the **TryHackMe Pre-Security Path** with **Room 1**. This room introduced me to how TryHackMe works and helped me get comfortable with the platform.  
+
+### 🔑 Key Takeaways:  
+- Understood the structure of **Rooms → Tasks → Questions**.  
+- Practiced how to answer different types of questions.  
+- Learned how to **deploy and interact with virtual machines (VMs)** inside TryHackMe.  
+- Explored the next steps in the **Pre-Security path** (Networking, Web, Linux, Windows).  
+
+💡 This room was about building the foundation — now I’m ready to dive deeper into technical concepts in upcoming rooms.  
+
+*✅ *Day 11 completed successfully!*
+---
+
+
