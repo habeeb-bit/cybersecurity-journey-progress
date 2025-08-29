@@ -237,6 +237,26 @@ I started the **TryHackMe Pre-Security Path** with **Room 1**. This room introdu
 
 💡 This room was about building the foundation — now I’m ready to dive deeper into technical concepts in upcoming rooms.  
 
-*✅ *Day 10 completed successfully!*
+*✅ *Day 11 completed successfully!*
+
+
+## 🚀 Day 12: Cybersecurity Journey Progress  
+
+**Date:** August 29, 2025.
+
+**Today's Focus:** TryHackMe Pre-Security – Room 2 (Learning About the Web)  
+
+### 🔑 Key Takeaways:
+- Understood the difference between the **Internet** and the **World Wide Web**.  
+- Learned how **clients (browsers)** communicate with **servers** using HTTP/HTTPS.  
+- Explored the **Request → Response cycle** of web communication.  
+- Got introduced to **HTML basics**: tags, attributes, and page structure.  
+- Practiced using **browser DevTools** to inspect network traffic and page elements.  
+
+📌 Building a strong foundation in web technologies is essential for cybersecurity.  
+
+*✅ *Day 12 completed successfully!*
+
+
 
 
