@@ -258,5 +258,26 @@ I started the **TryHackMe Pre-Security Path** with **Room 1**. This room introdu
 *✅ *Day 12 completed successfully!*
 
 
+## 🚀 Day 13: Cybersecurity Journey Progress 
+
+**Date:** August 30, 2025.
+
+🔑 Focus: TryHackMe – Pre-Security Room 3
+
+📘 What I learned:
+
+Operating Systems Overview – Explored how Windows, Linux, and macOS differ in structure and functionality.
+
+Files & Permissions – Understood how file systems work and the importance of user permissions for security.
+
+Command Line Basics – Practiced fundamental Linux and Windows commands for navigation and file management.
+
+Practical Relevance – Realized how OS knowledge is the foundation for penetration testing and digital forensics.
+
+🛠️ Progress: Strengthened my command-line skills and OS knowledge, setting the stage for more advanced cybersecurity concepts.
+
+*✅ *Day 13 completed successfully!*
+
+
 
 
