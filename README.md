@@ -279,5 +279,22 @@ Practical Relevance – Realized how OS knowledge is the foundation for penetrat
 *✅ *Day 13 completed successfully!*
 
 
+## 🚀 Day 14: Cybersecurity Journey Progress.
+
+**Date:** August 31, 2025.
+
+3 Lessons I Learned This Week:
+
+Networking fundamentals are the backbone of cybersecurity.
+
+Tools like firewalls and VPNs are only as strong as their configuration.
+
+Cybersecurity is a continuous learning process.
+
+Excited to keep pushing forward! 🔐
+
+*✅ *Day 14 completed successfully!*
+
+
 
 
