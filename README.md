@@ -296,5 +296,27 @@ Excited to keep pushing forward! 🔐
 *✅ *Day 14 completed successfully!*
 
 
+# 🚀 Day 15 of My Cybersecurity Journey
+
+**Date:** September 1, 2025.
+
+## Focus: Setting Up Virtual Lab Environment
+
+Today, I installed **VirtualBox** and set up **Kali Linux** to begin building a safe and isolated lab for practicing cybersecurity.
+
+### 🔑 Key Learnings
+- Installed and configured **VirtualBox** as a virtualization platform.  
+- Deployed **Kali Linux VM** for penetration testing and security labs.  
+- Learned the importance of using a virtual environment to protect the host system while experimenting with cybersecurity tools.  
+
+### ✅ Next Steps
+- Explore Kali Linux tools.  
+- Configure networking settings in VirtualBox (NAT, Bridged, Host-only).  
+- Begin hands-on penetration testing labs.
+
+*✅ *Day 15 completed successfully!*
+
+
+
 
 
