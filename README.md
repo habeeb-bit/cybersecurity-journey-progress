@@ -317,6 +317,26 @@ Today, I installed **VirtualBox** and set up **Kali Linux** to begin building a 
 *✅ *Day 15 completed successfully!*
 
 
+## 🚀 Day 16: Cybersecurity Journey Progress  
+
+**Date:** September 2, 2025.
+
+Today, I explored **basic Linux commands** — an essential skill for navigating and managing systems.  
+
+### 🔑 What I Learned:
+- File system navigation (`ls`, `cd`, `pwd`)  
+- File operations (`touch`, `cp`, `mv`, `rm`)  
+- Viewing and editing files (`cat`, `nano`, `less`)  
+- Permissions and ownership basics (`chmod`, `chown`)  
+- System information (`uname`, `whoami`, `uptime`)  
+
+🛠️ These commands are the foundation of Linux, which is widely used in cybersecurity for penetration testing, server management, and scripting.  
+
+*✅ *Day 16 completed successfully!*
+
+
+
+
 
 
 
