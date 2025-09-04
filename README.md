@@ -335,6 +335,29 @@ Today, I explored **basic Linux commands** — an essential skill for navigating
 *✅ *Day 16 completed successfully!*
 
 
+# 🚀 Day 17: Cybersecurity Journey Progress
+
+**Date:** September 3, 2025.
+
+## Focus: OverTheWire Bandit (Levels 0–4)
+
+### 🔑 What I Learned:
+- Using **SSH** to connect to remote servers (`ssh user@host -p port`).
+- Reading files with **cat** and handling files with tricky names (e.g., `cat ./-`).
+- Navigating hidden directories and files using `ls -a`.
+- Identifying human-readable files with the `file` command.
+
+### 🛠 Skills Gained:
+- Remote login basics
+- File management in Linux
+- Command-line problem-solving
+
+📌 Continuing to build strong Linux fundamentals as part of my cybersecurity journey.
+
+*✅ *Day 17 completed successfully!*
+
+
+
 
 
 
