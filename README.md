@@ -357,6 +357,31 @@ Today, I explored **basic Linux commands** — an essential skill for navigating
 *✅ *Day 17 completed successfully!*
 
 
+## 🚀 Day 18: Cybersecurity Journey Progress  
+
+**Date:** September 4, 2025.
+
+### 🎯 Focus: OverTheWire Bandit (Levels 5–9)
+
+Today, I continued with the Bandit wargame and worked through levels 5–9.  
+Here’s what I practiced and learned:
+
+- 📂 Navigating through **hidden files and directories**.  
+- 🔍 Using commands like `ls -a`, `find`, and `grep` for file discovery and searching.  
+- 🔐 Working with file permissions and understanding executable files.  
+- 🛠️ Combining multiple commands using pipes (`|`) and redirection (`>`, `<`).  
+- 💡 Improved confidence in thinking logically and breaking down challenges step by step.  
+
+### 🧰 Commands & Tools:
+`ls`, `cd`, `cat`, `grep`, `find`, `file`, `strings`, `diff`
+
+### 🌱 Takeaway:
+Each level builds on previous concepts, reinforcing problem-solving and sharpening Linux command-line skills essential for cybersecurity.  
+
+*✅ *Day 18 completed successfully!*
+
+
+
 
 
 
