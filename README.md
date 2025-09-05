@@ -381,6 +381,22 @@ Each level builds on previous concepts, reinforcing problem-solving and sharpeni
 *✅ *Day 18 completed successfully!*
 
 
+### Day 19 of my Cybersecurity Journey 🚀
+
+**Date:** September 5, 2025
+
+Today I explored **Linux users & permissions**:
+- Learned about **file ownership** (user, group, others).
+- Practiced `chmod` with **numeric (e.g., 644, 755)** and **symbolic (u+x, g-w)** modes.
+- Understood the role of **sudo** in privilege escalation and system administration.
+- Experimented with granting/restricting access to files and directories.
+
+🔑 Key takeaway: Proper permission management is critical in securing systems and preventing unauthorized access.
+
+*✅ *Day 19 completed successfully!*
+
+
+
 
 
 
