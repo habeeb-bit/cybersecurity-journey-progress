@@ -396,6 +396,26 @@ Today I explored **Linux users & permissions**:
 *✅ *Day 19 completed successfully!*
 
 
+## 🚀 Day 20: Cybersecurity Journey Progress  
+
+**Date:** September 6, 2025.
+
+Today I worked on OverTheWire Bandit Levels 10–14.
+
+🔑 Key Learnings:
+Level 10: Practiced decoding a base64 encoded file.
+Level 11: Discovered how to handle a file encoded with the ROT13 cipher.
+Level 12: Learned about hexdumps and file extraction by reversing binary data.
+Level 13: Explored SSH key authentication using private keys.
+Level 14: Connected to a server using the password retrieved via SSL.
+
+💡 These levels deepened my understanding of encoding/decoding, cryptography basics, file manipulation, and secure remote access—essential skills for penetration testing and cybersecurity problem-solving.
+
+*✅ *Day 20 completed successfully!*
+
+
+
+
 
 
 
