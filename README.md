@@ -414,6 +414,36 @@ Level 14: Connected to a server using the password retrieved via SSL.
 *✅ *Day 20 completed successfully!*
 
 
+### Day 21 of my Cybersecurity Journey 🚀
+
+**Date:** September 7, 2025
+
+# 🐧 Linux Basics
+
+This repository documents my journey of learning Linux basics as part of my cybersecurity roadmap.  
+It contains key commands, concepts, and practice notes.
+
+## 📖 Topics Covered
+1. [Introduction to Linux](01-introduction.md)
+2. [Linux Filesystem Structure](02-filesystem.md)
+3. [Users, Groups & Permissions](03-users-permissions.md)
+4. [Essential Linux Commands](04-commands.md)
+5. [Managing Processes](05-processes.md)
+6. [Linux Networking Basics](06-networking.md)
+
+## 🎯 Goal
+- Build strong Linux fundamentals  
+- Practice commands daily  
+- Use as a quick reference guide  
+- Share knowledge with others learning Linux
+
+*✅ *Day 21 completed successfully!*
+
+
+
+
+
+
 
 
 
