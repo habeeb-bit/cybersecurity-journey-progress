@@ -440,6 +440,29 @@ It contains key commands, concepts, and practice notes.
 *✅ *Day 21 completed successfully!*
 
 
+### Day 22 of my Cybersecurity Journey 🚀
+
+**Date:** September 8, 2025
+
+Today, I studied the **Incident Response process** based on the **NIST SP 800-61r2 framework**.  
+The framework breaks down the IR lifecycle into four phases:
+
+1. **Preparation** – Establish policies, tools, and procedures in advance.  
+2. **Detection & Analysis** – Identify, investigate, and confirm potential incidents.  
+3. **Containment, Eradication & Recovery** – Limit damage, remove the threat, and restore systems.  
+4. **Post-Incident Activity** – Document lessons learned and improve processes.
+
+#### Resources I Used:
+- [NIST SP 800-61r2 (Computer Security Incident Handling Guide)](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)  
+- [CISA Incident Response Playbooks](https://www.cisa.gov/resources-tools/resources/incident-response-playbooks)  
+- [SANS Incident Handlers Handbook](https://www.sans.org/white-papers/33901/)  
+- [MITRE ATT&CK Framework](https://attack.mitre.org/)
+
+ *✅ *Day 22 completed successfully!* 
+
+
+
+
 
 
 
