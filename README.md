@@ -461,6 +461,26 @@ The framework breaks down the IR lifecycle into four phases:
  *✅ *Day 22 completed successfully!* 
 
 
+ ## 🚀 Day 23 of My Cybersecurity Journey  
+
+**Topic:** Introduction to SOC Analyst  
+
+Today I learned about the role of a **Security Operations Center (SOC) Analyst**.  
+Key takeaways:  
+- SOC Analysts are the first line of defense in cybersecurity, monitoring and analyzing security events.  
+- They use SIEM tools to detect, investigate, and respond to threats.  
+- SOC teams are structured into levels (Tier 1, 2, and 3), each handling incidents with increasing complexity.  
+- Common responsibilities include log analysis, incident triage, escalation, and reporting.  
+
+This role is critical in safeguarding organizations against cyberattacks, and it’s often the entry point for many cybersecurity careers.  
+
+🔑 *Skills to build*: SIEM (e.g., Splunk), log analysis, incident response, MITRE ATT&CK framework.  
+
+ *✅ *Day 23 completed successfully!* 
+
+
+
+
 
 
 
