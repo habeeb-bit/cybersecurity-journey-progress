@@ -500,6 +500,27 @@ This room gave me a solid foundation on the importance of cybersecurity and the 
 
 
 
+ ## 🚀 Day 25 of My Cybersecurity Journey  
+
+ **Date:** September 11, 2025
+
+Today, I continued with the **Intro to Cybersecurity** path on TryHackMe and completed **Room 2**.  
+Here’s what I covered:
+
+-  Learned about **attack vectors** and how cybercriminals exploit vulnerabilities.  
+-  Explored the concept of the **CIA Triad** (Confidentiality, Integrity, Availability) – the foundation of security principles.  
+-  Understood different types of **threat actors** (script kiddies, insider threats, hacktivists, nation-state actors).  
+-  Got introduced to **cybersecurity job roles** and career paths (SOC Analyst, Penetration Tester, Incident Responder, etc.).  
+-  Practiced answering challenge questions to reinforce the concepts.
+
+This room strengthened my foundation in **basic cybersecurity principles** and helped me see how theory connects to real-world security roles.  
+
+*✅ *Day 25 completed successfully!* 
+
+ 
+
+
+
 
 
 
