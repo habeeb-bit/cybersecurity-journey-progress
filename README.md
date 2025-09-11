@@ -463,6 +463,8 @@ The framework breaks down the IR lifecycle into four phases:
 
  ## 🚀 Day 23 of My Cybersecurity Journey  
 
+ **Date:** September 9, 2025
+
 **Topic:** Introduction to SOC Analyst  
 
 Today I learned about the role of a **Security Operations Center (SOC) Analyst**.  
@@ -478,6 +480,23 @@ This role is critical in safeguarding organizations against cyberattacks, and it
 
  *✅ *Day 23 completed successfully!* 
 
+
+ ## 🚀 Day 24 of My Cybersecurity Journey  
+
+ **Date:** September 10, 2025
+
+Today I completed **TryHackMe – Intro to Cybersecurity (Room 1)**.  
+
+### Key Takeaways:
+- Learned the **CIA Triad**: Confidentiality, Integrity, Availability.  
+- Explored different **types of cyber attacks** (Malware, Phishing, DoS, MITM).  
+- Understood the roles of hackers: **White Hat, Black Hat, Gray Hat**.  
+- Discovered ways to **protect against cyber threats** (strong passwords, MFA, firewalls, updates).  
+- Learned about **cybersecurity career paths** (Penetration Tester, SOC Analyst, Incident Responder, Forensics, etc.).  
+
+This room gave me a solid foundation on the importance of cybersecurity and the different opportunities within the field.  
+
+ *✅ *Day 24 completed successfully!* 
 
 
 
