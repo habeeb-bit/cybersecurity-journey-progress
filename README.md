@@ -517,6 +517,32 @@ This room strengthened my foundation in **basic cybersecurity principles** and h
 
 *✅ *Day 25 completed successfully!* 
 
+
+
+## 🚀 Day 26 of My Cybersecurity Journey  
+
+ **Date:** September 12, 2025
+
+Today I explored **Blue Team Labs Online (BTLO)** by completing a beginner-level challenge focused on defensive security skills.
+
+**🔹 What I learned**
+- Basics of log analysis (Windows Event Logs & Sysmon).
+- How to investigate network captures with Wireshark.
+- Identifying Indicators of Compromise (IOCs) such as malicious domains, IPs, and suspicious processes.
+- Building a simple timeline of events by correlating logs and network traffic.
+
+**🔹 Tools used**
+- Wireshark
+- PowerShell (Get-WinEvent for EVTX logs)
+- VirusTotal (hash & domain lookups)
+- Strings & hash utilities on Linux
+
+**🔹 Key takeaway**
+BTLO challenges are a great way to practice **SOC analyst workflows**, especially correlating logs with network data to detect malicious activity. This exercise improved my ability to think like a defender and connect multiple evidence sources.
+
+*✅ *Day 26 completed successfully!* 
+
+
  
 
 
