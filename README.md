@@ -543,6 +543,26 @@ BTLO challenges are a great way to practice **SOC analyst workflows**, especiall
 *✅ *Day 26 completed successfully!* 
 
 
+## 🚀 Day 27 of My Cybersecurity Journey  
+
+ **Date:** September 13, 2025
+ 
+Today, I continued with the **Intro to Cybersecurity path**, working on **Room 3**.  
+This part of the room focused on understanding **cybersecurity fundamentals** in more detail, including:
+
+- **Different types of cyber attacks** (social engineering, phishing, malware, DoS/DDoS).  
+- **CIA Triad** – Confidentiality, Integrity, Availability, and how it underpins security.  
+- **Common security practices** for protecting systems and data.  
+- Importance of **digital forensics and incident response** in real-world scenarios.  
+
+This room helped reinforce how cybersecurity isn’t just about tools, but also about **mindset, strategy, and awareness**.  
+
+*✅ *Day 27 completed successfully!* 
+
+
+
+
+
  
 
 
