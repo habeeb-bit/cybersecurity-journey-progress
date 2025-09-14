@@ -560,6 +560,48 @@ This room helped reinforce how cybersecurity isn’t just about tools, but also 
 *✅ *Day 27 completed successfully!* 
 
 
+## 🚀 Day 28 of My Cybersecurity Journey  
+
+ **Date:** September 14, 2025
+ 
+# How SOC Analysts Detect Threats  
+
+## Introduction  
+Security Operations Center (SOC) analysts are responsible for safeguarding an organization’s IT infrastructure. Their primary role is to monitor, detect, and respond to security threats in real time. This report explores the main methods SOC analysts use to identify potential threats.  
+
+## Threat Detection Techniques  
+
+1. **Log Monitoring & SIEM Tools**  
+   - SOC analysts use Security Information and Event Management (SIEM) platforms (e.g., Splunk, QRadar, Elastic SIEM) to collect, analyze, and correlate logs.  
+   - Alerts are generated when suspicious activities or anomalies are detected.  
+
+2. **Network Traffic Analysis**  
+   - Monitoring network packets and flows helps detect port scans, unusual traffic spikes, or data exfiltration attempts.  
+   - Tools such as Wireshark and Zeek assist in deep packet inspection.  
+
+3. **Endpoint Detection & Response (EDR)**  
+   - EDR solutions track endpoint activity to detect malware, privilege escalation, or abnormal behavior.  
+   - Popular tools include CrowdStrike, SentinelOne, and Microsoft Defender ATP.  
+
+4. **Threat Intelligence Feeds**  
+   - Analysts leverage global intelligence feeds to stay updated on Indicators of Compromise (IOCs) such as malicious IPs, domains, or file hashes.  
+   - This enables proactive defense against known threats.  
+
+5. **User & Entity Behavior Analytics (UEBA)**  
+   - Machine learning and baseline analysis help detect compromised accounts or insider threats.  
+   - Example: sudden login attempts from a foreign location.  
+
+6. **Event Correlation & Investigation**  
+   - SOC teams correlate events across different systems to eliminate false positives and identify real attacks.  
+
+## Conclusion  
+SOC analysts combine **technology, intelligence, and expertise** to detect threats effectively. By leveraging SIEM systems, network monitoring, EDR tools, and behavioral analytics, they help organizations stay resilient against evolving cyber threats.  
+
+*✅ *Day 28 completed successfully!* 
+
+
+
+
 
 
 
