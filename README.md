@@ -601,6 +601,25 @@ SOC analysts combine **technology, intelligence, and expertise** to detect threa
 
 
 
+## 🚀 Day 29 of My Cybersecurity Journey  
+
+ **Date:** September 15, 2025
+ 
+Today, I explored the fundamentals of Splunk through YouTube tutorials. Splunk is a powerful SIEM tool used by SOC Analysts to monitor, search, analyze, and visualize machine data.
+
+Key takeaways:
+
+-Understanding the Splunk interface (Search & Reporting App).
+-Learning how to use Search Processing Language (SPL) for queries.
+-Creating dashboards and reports to visualize log data.
+-How Splunk helps in detecting threats and incidents in real-time.
+-This is an essential step in building SOC skills, as Splunk is widely used in real-world environments.
+
+*✅ *Day 29 completed successfully!* 
+
+
+
+
 
 
 
