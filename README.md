@@ -619,6 +619,28 @@ Key takeaways:
 
 
 
+## 🚀 Day 30 of My Cybersecurity Journey  
+
+ **Date:** September 16, 2025
+
+Today I installed and set up **Splunk Enterprise (Free Trial)** on my system.  
+
+### Steps I Completed:
+- Created a Splunk account and downloaded the Enterprise trial.  
+- Installed Splunk locally and configured the admin username/password.  
+- Accessed Splunk Web via `http://localhost:8000`.  
+- Prepared the environment for ingesting log files.  
+
+### Takeaway:
+Splunk is now fully installed and running on my system, ready for log ingestion and analysis in the next phase.
+
+*✅ *Day 30 completed successfully!* 
+
+
+
+
+
+
 
 
 
