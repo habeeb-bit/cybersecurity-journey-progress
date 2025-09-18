@@ -655,6 +655,29 @@ Key steps I practiced:
 *✅ *Day 31 completed successfully!* 
 
 
+## 🚀 Day 32 of My Cybersecurity Journey  
+
+ **Date:** September 17, 2025
+
+oday, I practiced building a Splunk dashboard to monitor and analyze log data.
+
+🔑 Key Takeaways:
+
+-Learned how to create and save searches in Splunk.
+-Converted searches into dashboard panels.
+-Built visualizations to display.
+-Errors by source
+-Errors over time
+-Top hosts with errors
+
+Customized the dashboard for better monitoring and visibility.
+
+🎯 Outcome:
+This lab improved my understanding of how dashboards support SOC analysts by providing quick insights into log activity, helping to detect issues and anomalies faster.
+
+*✅ *Day 32 completed successfully!* 
+
+
 
 
 
