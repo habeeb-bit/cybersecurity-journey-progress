@@ -638,6 +638,25 @@ Splunk is now fully installed and running on my system, ready for log ingestion 
 
 
 
+## 🚀 Day 31 of My Cybersecurity Journey  
+
+ **Date:** September 17, 2025
+
+🔎 Today I explored how to search logs for failed logins using Splunk.
+
+Key steps I practiced:
+
+-Running SPL queries to identify failed login attempts (Failed password, Invalid user, authentication failure).
+-Extracting important fields such as username and source IP using rex.
+-ggregating results with stats to detect top source IPs and most targeted users.
+-Using timechart to visualize failed login activity over time.
+-Correlating failed logins with successful ones to spot possible compromises.
+
+*✅ *Day 31 completed successfully!* 
+
+
+
+
 
 
 
