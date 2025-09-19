@@ -657,7 +657,7 @@ Key steps I practiced:
 
 ## 🚀 Day 32 of My Cybersecurity Journey  
 
- **Date:** September 17, 2025
+ **Date:** September 18, 2025
 
 oday, I practiced building a Splunk dashboard to monitor and analyze log data.
 
@@ -676,6 +676,27 @@ Customized the dashboard for better monitoring and visibility.
 This lab improved my understanding of how dashboards support SOC analysts by providing quick insights into log activity, helping to detect issues and anomalies faster.
 
 *✅ *Day 32 completed successfully!* 
+
+
+## 🚀 Day 33 of My Cybersecurity Journey  
+
+ **Date:** September 19, 2025
+ 
+Today, I explored the basics of Windows Event Logs and their role in security monitoring:
+Learned about the main log categories: Application, System, and Security
+Practiced analyzing common Security Event IDs like:
+
+4624 → Successful login
+
+4625 → Failed login attempt
+
+4672 → Admin privilege assignment
+
+Used Event Viewer to check failed/successful login events
+
+👉 This practice helped me understand how Windows logs serve as a critical resource for SOC Analysts in detecting suspicious activities.
+
+*✅ *Day 33 completed successfully!* 
 
 
 
