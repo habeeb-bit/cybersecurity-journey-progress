@@ -699,6 +699,44 @@ Used Event Viewer to check failed/successful login events
 *✅ *Day 33 completed successfully!* 
 
 
+## 🚀 Day 34 of My Cybersecurity Journey  
+
+ **Date:** September 20, 2025
+ 
+oday I practiced analyzing Windows Security Event Logs using free datasets from the EVTX Attack Samples repository.
+
+🔹 Focus Areas:
+
+Investigated failed login attempts (Event ID 4625) to detect brute force activity.
+
+Reviewed privilege escalation events (Event ID 4672) to see where admin rights were assigned.
+
+🔹 Key Learnings:
+
+-Multiple failed logins from the same IP may indicate brute force attempts.
+-Privilege escalation events are critical for spotting compromised accounts gaining admin access.
+-Tools like EvtxECmd, Splunk, or even Excel make log parsing and filtering more efficient.
+-This exercise improved my understanding of how SOC analysts detect malicious activity in raw event data.
+
+*✅ *Day 34 completed successfully!* 
+
+
+## 🚀 Day 35 of My Cybersecurity Journey  
+
+ **Date:** September 21, 2025
+ 
+**Created my first SIEM dashboard.
+**
+Learned how to:
+
+-Build panels for login activities, failed logins, and event monitoring.
+-Use visualizations to transform logs into insights.
+-Understand the importance of dashboards in real-time monitoring.
+-This marks a key step in applying SIEM tools to practical security use cases.
+
+*✅ *Day 35 completed successfully!* 
+
+
 
 
 
