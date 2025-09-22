@@ -738,6 +738,36 @@ Learned how to:
 
 
 
+## 🚀 Day 36 of My Cybersecurity Journey  
+
+ **Date:** September 22, 2025
+
+## Overview
+Today I learned the basics of **Nmap** for network reconnaissance. Focus was on understanding host discovery, scanning common ports, and identifying services.
+
+## Lab setup
+- Attacker: Kali Linux (VM)  
+- Target: Ubuntu/Windows (VM)  
+- Network: Isolated (Host-only)
+
+## Commands practiced (lab only)
+- Host discovery:
+  nmap -sn <target>
+- Scan top 100 ports:
+  nmap --top-ports 100 <target>
+- Service/version detection:
+  nmap -sV <target>
+
+## Key takeaways
+- Start with light scans before deeper checks.  
+- `-sV` is useful for identifying services and versions.  
+- Scanning should always be done in safe, authorized environments only.
+
+*✅ *Day 36 completed successfully!* 
+
+
+
+
 
 
 
