@@ -766,6 +766,29 @@ Today I learned the basics of **Nmap** for network reconnaissance. Focus was on 
 *✅ *Day 36 completed successfully!* 
 
 
+## 🚀 Day 37 of My Cybersecurity Journey  
+
+ **Date:** September 23, 2025
+ 
+I Completed the TryHackMe Nmap room to learn practical network reconnaissance — host discovery, port enumeration, service/version detection, and basic NSE usage. Focused on capturing and saving scan outputs for follow-up enumeration.
+
+Key commands I ran
+-nmap -sn <target> — host discovery (is it up?).
+-nmap --top-ports 100 -T4 -Pn -oN quick.txt <target> — fast common-port scan.
+-nmap -p- -T4 -Pn -oN allports.txt <target> — full port scan (1–65535).
+-nmap -sV -sC -p <ports> -oN svc-scan.txt <target> — service/version detection + -default NSE scripts.
+-nmap --script vuln -p <ports> <target> — targeted vuln checks for services of interest.
+
+What I learned
+
+-How to determine whether a host is up and when to use -Pn.
+-Trade-offs: quick top-port scans vs full 65k port scans.
+-Value of -sV for getting service banners and guiding next steps.
+-Basic use of NSE scripts (-sC, --script) and when to run vuln checks.
+-Best practice: save outputs (-oN/-oX) for documentation and parsing.
+
+*✅ *Day 37 completed successfully!* 
+
 
 
 
