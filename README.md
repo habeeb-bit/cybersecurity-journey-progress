@@ -790,6 +790,33 @@ What I learned
 *✅ *Day 37 completed successfully!* 
 
 
+## 🚀 Day 38 of My Cybersecurity Journey  
+
+ **Date:** September 24, 2025
+ 
+Today, I explored vulnerability scanning, a key cybersecurity practice used to identify weaknesses in systems, applications, and networks.
+
+🔎 Key Insights:
+
+Vulnerability scanning acts as a "health check" for digital assets.
+
+Nikto is an open-source web server scanner that quickly detects outdated software, misconfigurations, and potential vulnerabilities in websites.
+
+Nessus is an enterprise-grade vulnerability scanner that covers entire networks, operating systems, databases, and applications. It provides detailed reports categorized by severity (Critical, High, Medium, Low, Info).
+
+⚖️ Nikto vs Nessus:
+
+Nikto: Fast, free, web-focused.
+
+Nessus: Comprehensive, enterprise-level, and supports compliance checks.
+
+📌 Takeaway:
+Both tools are essential in a cybersecurity toolkit. Nikto provides quick insights into web server vulnerabilities, while Nessus delivers a more holistic and in-depth vulnerability management solution.
+
+*✅ *Day 38 completed successfully!*
+
+
+
 
 
 
