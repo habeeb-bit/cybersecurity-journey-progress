@@ -817,6 +817,27 @@ Both tools are essential in a cybersecurity toolkit. Nikto provides quick insigh
 
 
 
+## 🚀 Day 39 of My Cybersecurity Journey  
+
+ **Date:** September 25, 2025
+
+Today, I explored the **Vulnerability Scanning** room on TryHackMe.
+
+### Key Takeaways:
+- Learned the fundamentals of **vulnerability scanners** like Nessus and OpenVAS.  
+- Practiced **Nmap enumeration** to identify open ports and running services before scanning.  
+- Used **Nikto** for web vulnerability scanning.  
+- Understood the importance of **prioritizing vulnerabilities** based on severity (Critical → High → Medium → Low).  
+- Learned how to **export and analyze reports** to identify CVEs and possible mitigations.  
+
+### Reflection:
+This exercise showed me how vulnerability scanning fits into the security workflow: from **discovery** → **analysis** → **reporting** → **remediation**. It also reinforced why automated scans should be complemented by manual verification to avoid false positives.
+
+*✅ *Day 39 completed successfully!*
+
+
+
+
 
 
 
