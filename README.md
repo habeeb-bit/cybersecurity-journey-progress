@@ -837,6 +837,23 @@ This exercise showed me how vulnerability scanning fits into the security workfl
 
 
 
+## 🚀 Day 40 of My Cybersecurity Journey  
+
+ **Date:** September 26, 2025
+
+Today, I explored the fundamentals of Web Application Security through the lens of the OWASP Top 10 (2021 edition).
+
+🔑 Key Takeaways:
+
+-Learned about the most critical risks in web applications such as Broken Access Control, Injection, Cryptographic Failures, Security Misconfigurations, and more.
+-Understood how attackers exploit these vulnerabilities and the importance of secure coding practices in prevention.
+-Discovered hands-on resources like PortSwigger Web Security Academy, TryHackMe Web Fundamentals, and OWASP Juice Shop for practical application.
+-This marks an important step in strengthening my defensive and offensive web security knowledge.
+
+*✅ *Day 40 completed successfully!*
+
+
+
 
 
 
