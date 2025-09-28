@@ -854,6 +854,36 @@ Today, I explored the fundamentals of Web Application Security through the lens 
 
 
 
+## 🚀 Day 41 of My Cybersecurity Journey  
+
+ **Date:** September 27, 2025
+
+Summary
+Completed the TryHackMe OWASP Top 10 room to practice common web application vulnerabilities: Injection, Broken Authentication, Sensitive Data Exposure, XXE, Broken Access Control, Security Misconfiguration, XSS, Insecure Deserialization, Vulnerable Components, and Insufficient Logging.
+
+What I did
+- Read each module’s theory and completed hands-on tasks in the lab environment.
+- Used browser DevTools and Burp Suite to intercept and tamper with requests.
+- Confirmed issues (e.g., input validation gaps, insecure cookies, access control flaws) and documented remediation steps.
+
+Tools
+Burp Suite, browser DevTools, curl, sqlmap, ffuf
+
+Lessons learned
+- Importance of input validation/parameterized queries
+- Need for secure cookie attributes and session management
+- How broken access control often comes down to predictable URL patterns or ID tampering
+
+Next steps
+- Practice PortSwigger Web Security Academy labs on specific topics (SQLi, XSS)
+- Build a small vulnerable app to practice safe exploitation and fixing
+
+*✅ *Day 41 completed successfully!*
+
+
+
+
+
 
 
 
