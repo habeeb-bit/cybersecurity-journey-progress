@@ -922,6 +922,24 @@ Today, I started learning Cloud Fundamentals with AWS using free training resour
 
 
 
+## 🚀 Day 44 of My Cybersecurity Journey  
+
+ **Date:** September 30, 2025
+
+Today, I explored how AWS secures access with IAM roles and Multi-Factor Authentication (MFA).
+
+-Learned that IAM roles provide temporary, permission-based access for users, applications, or services without requiring permanent credentials.
+-Understood key use cases like cross-account access, EC2 roles, and temporary admin privileges.
+-Studied MFA, which adds an extra layer of security beyond passwords, protecting sensitive accounts such as the AWS root user.
+-Reviewed best practices like enforcing MFA for role assumption, following the principle of least privilege, and monitoring with CloudTrail.
+
+🔐 Key takeaway: Roles + MFA = Strong layered security. By combining them, AWS ensures both flexible access and robust protection against credential compromise.
+
+*✅ *Day 44 completed successfully!*
+
+
+
+
 
 
 
