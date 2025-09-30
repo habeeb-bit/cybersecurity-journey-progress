@@ -906,6 +906,20 @@ Tools used: Nmap, netcat, basic bash/python automation scripts, web-based vulner
 *✅ *Day 42 completed successfully!*
 
 
+## 🚀 Day 43 of My Cybersecurity Journey  
+
+ **Date:** September 29, 2025
+ 
+Today, I started learning Cloud Fundamentals with AWS using free training resources. I explored:
+
+-The basics of cloud computing models (IaaS, PaaS, SaaS)
+-AWS global infrastructure (Regions, Availability Zones, Edge Locations)
+-Core AWS services like EC2, S3, RDS, and Lambda
+-Introduction to AWS pricing and the Free Tier
+-I’ll continue hands-on practice with the AWS Free Tier to strengthen my cloud foundation.
+
+*✅ *Day 43 completed successfully!*
+
 
 
 
