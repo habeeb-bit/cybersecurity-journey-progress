@@ -938,6 +938,28 @@ Today, I explored how AWS secures access with IAM roles and Multi-Factor Authent
 *✅ *Day 44 completed successfully!*
 
 
+## 🚀 Day 45 of My Cybersecurity Journey  
+
+ **Date:** October 01, 2025
+
+Today I explored **Amazon Web Services (AWS) Free Tier**.  
+I went through the process of creating an AWS account, setting up billing alerts, and learning how to access the AWS Management Console.  
+
+Key steps I practiced:
+- Creating an AWS Free Tier account  
+- Understanding billing & usage limits  
+- Navigating the AWS Management Console  
+- Identifying free-tier services (EC2, S3, RDS, IAM)  
+- Learning about billing alarms to avoid unexpected charges  
+
+If account creation is limited, I also reviewed AWS Skill Builder labs and official demo videos to understand the workflow.  
+
+This marks the start of my hands-on exploration with **Cloud Security**. 🚀
+
+*✅ *Day 45 completed successfully!*
+
+
+
 
 
 
