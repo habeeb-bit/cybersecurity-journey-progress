@@ -960,6 +960,28 @@ This marks the start of my hands-on exploration with **Cloud Security**. 🚀
 
 
 
+## 🚀 Day 48 of My Cybersecurity Journey  
+
+ **Date:** October 02, 2025
+ 
+Today I explored how to strengthen IAM user accounts in AWS by enabling Multi-Factor Authentication (MFA).
+MFA adds an additional security layer by requiring a time-based one-time code (or hardware device) alongside the user’s password.
+
+Key Takeaways:
+
+MFA is critical for the root user and privileged IAM users.
+
+AWS supports virtual MFA apps (Google Authenticator, Authy), and hardware tokens.
+
+After setup, users must provide both their password and MFA code at sign-in.
+
+Best practice: Use IAM roles where possible, and audit MFA usage regularly.
+
+This step greatly reduces the risk of unauthorized access in AWS environments.
+
+*✅ *Day 46 completed successfully!*
+
+
 
 
 
