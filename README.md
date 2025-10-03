@@ -960,7 +960,7 @@ This marks the start of my hands-on exploration with **Cloud Security**. 🚀
 
 
 
-## 🚀 Day 48 of My Cybersecurity Journey  
+## 🚀 Day 46 of My Cybersecurity Journey  
 
  **Date:** October 02, 2025
  
@@ -980,6 +980,29 @@ Best practice: Use IAM roles where possible, and audit MFA usage regularly.
 This step greatly reduces the risk of unauthorized access in AWS environments.
 
 *✅ *Day 46 completed successfully!*
+
+
+
+## 🚀 Day 47 of My Cybersecurity Journey  
+
+ **Date:** October 03, 2025
+ 
+Today, I explored Cloud Security fundamentals through YouTube resources.
+
+Key takeaways:
+
+Cloud Security is about protecting data, applications, and infrastructure hosted on cloud platforms.
+
+Shared responsibility model: the cloud provider secures the infrastructure, while the customer secures their data, applications, and access.
+
+Core security areas include identity & access management (IAM), encryption, compliance, and network security.
+
+Common threats: misconfigurations, data breaches, insider threats, and insecure APIs.
+
+Understanding these basics is essential for building secure cloud environments and aligning with best practices.
+
+*✅ *Day 47 completed successfully!*
+
 
 
 
