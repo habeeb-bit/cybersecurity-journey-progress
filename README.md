@@ -1005,6 +1005,25 @@ Understanding these basics is essential for building secure cloud environments a
 
 
 
+## 🚀 Day 48 of My Cybersecurity Journey  
+
+ **Date:** October 04, 2025
+ 
+Today, I explored how to create and configure Security Group rules in AWS, which act as virtual firewalls for cloud resources.
+
+I learned how to:
+
+-Create custom security groups for EC2 instances
+-Configure inbound and outbound rules to manage traffic
+-Apply the principle of least privilege by allowing only necessary ports (e.g., SSH, HTTP, HTTPS)
+-Test and verify network access restrictions
+
+This hands-on lab helped me understand how firewall rules protect cloud infrastructure and ensure secure network boundaries.
+
+*✅ *Day 48 completed successfully!*
+
+
+
 
 
 
